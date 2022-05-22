@@ -1,5 +1,5 @@
 
-# MyGit Explorer
+# Git Explorer
 An opensource community is a loosely organized, ad-hoc community of contributors from all over the world who share an interest in meeting a common need, ranging from minor projects to huge developments. The diverse and highly motivated open source community is the harbinger of innovation and collaboration in today's competitive world.
 
 One of the main hectic things in open source is to find a good repository to contribute especially issues that fall under your skillsets. It becomes more painful with beginners as they go through the process of finding communities and projects to contribute. The similar issue is faced by maintainers and project-owners who find it laborious to find suitable contributors whose skills align with project requirements.
@@ -87,10 +87,3 @@ For this we created user profile based on their activity and work done in past. 
 **Frontend** : HTML/CSS/JS
 
 **API** : Github API for collecting data
-## Authors
-
-- [@jishu-yadav](https://github.com/jishu-yadav)
-
-- [@Aditi-Roy-coder](https://github.com/Aditi-Roy-coder)
-
-- [@Priyanka7011](https://github.com/Priyanka7011)
